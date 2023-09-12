@@ -21,4 +21,5 @@ This is a Solidity smart contract for a basic NFT marketplace called Metaverse. 
 ->To interact with this contract from the frontend, web3.js library can be used in the following ways:
 
 *Using web3.eth.Contract to instantiate the contract ABI and interface with its methods.
+
 Deployed Link: http://127.0.0.1:5500/
